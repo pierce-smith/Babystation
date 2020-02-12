@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Babystation</string>
+    <string name="splash_info">Babystation Logo</string>
+    <string name="action_add">Add a Log</string>
+    <string name="action_search">Search</string>
+    <string name="addLogTitle">Title:</string>
+    <string name="logTitleHint">Enter a title for your log</string>
+    <string name="addLogNorM">Need or Milestone?</string>
+    <string name="addLogComments">Comments:</string>
+    <string name="logCommentsHint">Any extra information you may want to add goes here</string>
+    <string name="logConfirm">Confirm</string>
+    <string name="logCancel">Back</string>
+    <string name="action_about">About</string>
+    <string name="about_title">Babystation - the app dedicated to making parents\' lives easier.</string>
+    <string name="about_info">Pierce Smith is the father of two young boys. As such, he understands the pains of not remembering exactly when you met your baby\'s needs last. It was probably 3am, and calling you tired would be an understatement.\n\nHe created this app for those parents that would like a streamlined way to log their baby\'s needs and milestones. Need to know when you fed your baby last? Want to know exactly when your little one took their first step?\n\nYou can add a log by accessing the menu, and tapping on \'Add a Log.\'\n\nThe home page will automatically display the 25 most recent logs you have entered. You can also sort all logs by category.\n\nTo update or delete a log, just access the \'Search\' page from the menu.</string>
+    <string name="backToHome">Back to Home</string>
+</resources>
