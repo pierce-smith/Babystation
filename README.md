@@ -1,5 +1,4 @@
-# Babystation
-**The app dedicated towards making parents' lives easier.**
+# Babystation - dedicated towards making parents' lives easier.
 
 This android application was created to showcase database implementation.
 
